@@ -17,7 +17,8 @@ Compare member vs normal customers
 Identify top-performing product lines
 
 Provide an interactive experience using slicers
-**
+
+
 **📈 KPIs Displayed****
 
 🧾 Total Sales: 322,966.7
